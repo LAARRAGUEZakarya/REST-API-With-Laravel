@@ -11,7 +11,8 @@ class UpdateInvoiceRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        $user = $this->user();
+        return $user != null && $user->tokenCan('update');
     }
 
     /**
