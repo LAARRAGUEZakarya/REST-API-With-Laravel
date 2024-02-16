@@ -1,0 +1,5 @@
+{
+    "admin": "1|vYOtwSzsYg17tKQlOUbBrvMyNWKQweMhZqXm4MBe22245fab",
+    "update": "2|1LJUoi3Ew4axtLVSKKpp7YQgU401BduxxpgwLKYt46b8c6ad",
+    "basic": "3|HbWCktEHPQWCmlxWBvdAPV4tniqcT3e0gk1EUo5Ca80e8cfe"
+}
